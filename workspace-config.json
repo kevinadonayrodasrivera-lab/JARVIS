@@ -1,0 +1,28 @@
+{
+  "czulosc_klasniecia": 60,
+  "hotkey": "Win+Shift+W",
+  "zdarzenie_dzwiekowe": "Clapping",
+  "liczba_zdarzen": 2,
+  "cooldown": 3,
+  "czulosc_nn": 0.05,
+  "slowa_kluczowe": "Jarvis",
+  "jezyk_mowy": "pl",
+  "profil_aktywny": "Domyslny",
+  "profile": {
+    "Domyslny": {
+      "aplikacje": [
+        {
+          "nazwa": "Spotify",
+          "exe": "C:\\Users\\kevin\\AppData\\Roaming\\Spotify\\Spotify.exe",
+          "argumenty": "spotify:track:08mG3Y1vljYA6bvDt4Wqkj",
+          "ekran": 1,
+          "polowa": "",
+          "warstwa": "Normal",
+          "kolejnosc": 0,
+          "minimalizuj": false
+        }
+      ],
+      "terminale": []
+    }
+  }
+}
